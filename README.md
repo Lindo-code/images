@@ -5,7 +5,7 @@
 </p>
 
 ## Screenshots
-![Main](https://raw.githubusercontent.com/Lindo-code/images/refs/heads/main/creative-hub/ezgif-84e2d76cdc63d7.gif)
+![Main]()
 
 ## Link
 
